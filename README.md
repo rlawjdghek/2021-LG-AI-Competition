@@ -4,6 +4,7 @@
 
 ### 1. Data download
 [링크](https://drive.google.com/drive/folders/1f2cKwWFRTmZ2UR-ZNpjcRplmJnXraIxT?usp=sharing) 에서 훈련데이터를 다운 받을 수 있습니다. 
+src폴더와 같은 위치에 두면 됩니다. 
 
 ### 2. 훈련
 ```bash
