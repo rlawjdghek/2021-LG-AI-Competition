@@ -6,11 +6,11 @@
 []https://drive.google.com/drive/folders/1f2cKwWFRTmZ2UR-ZNpjcRplmJnXraIxT?usp=sharing 에서 훈련데이터를 다운 받을 수 있습니다. 
 
 ### 훈련
-'''bash
+```bash
 bash training.sh
-'''
+```
 
 ### Denoised Image Generation
-'''bash
+```bash
 bash inference.sh
-'''
+```
